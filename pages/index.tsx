@@ -29,14 +29,14 @@ export default function Home() {
           </h1>
           <ul className="animate-fade-in flex justify-between items-center mt-5 text-black dark:text-white text-2xl w-96 px-4">
             <li className="w-32 flex justify-center">
-              <Link href="https://www.danielmarin.dev/notes">
+              <Link href="https://www.notion.so/danielmarin/Notes-6a264b6c6f72422cb74d6f8bee75d230">
                 <a className="border-b-2 px-2 border-transparent hover:border-black dark:hover:border-white">
                   Notes
                 </a>
               </Link>
             </li>
             <li className="w-32 flex justify-center">
-              <Link href="https://www.danielmarin.dev/projects">
+              <Link href="https://www.notion.so/danielmarin/Projects-da1ddd8f8efc474283687a97244a4d60">
                 <a className="border-b-2 px-2 border-transparent hover:border-black dark:hover:border-white">
                   Projects
                 </a>

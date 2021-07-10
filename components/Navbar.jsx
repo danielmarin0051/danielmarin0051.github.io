@@ -17,7 +17,7 @@ export default function NavBar() {
       <div className="flex justify-between items-center py-4 md:py-5 mx-auto max-w-7xl">
         <Link href="/" className="cursor-pointer">
           <a className="flex items-center">
-            <img src="/icons/cube.svg" className="h-6 md:h-6 inline-block" />
+            <img src="/icons/cube.svg" className="h-6 md:h-6 inline-block" alt="cube logo"/>
             <p className="hidden sm:inline-block ml-3 md:ml-6 font-light text-sm sm:text-base md:text-lg tracking-wider">
               Daniel Marin
             </p>

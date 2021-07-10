@@ -125,13 +125,13 @@ function createPrimitive() {
 var options = {
   perlin: {
     vel: 0.003,
-    speed: 0.00006,
+    speed: 0.0002,
+    // perlins: 2.0,
     perlins: 1.0,
     decay: 0.1,
     complex: 0.3,
     waves: 20.0,
-    // eqcolor: 11.0,
-    eqcolor: 8,
+    eqcolor: 11.0,
     fragment: true,
     redhell: true,
   },
